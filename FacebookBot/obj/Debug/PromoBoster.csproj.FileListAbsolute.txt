@@ -1,0 +1,9 @@
+F:\co2\Old\duke\FacebookBot\FacebookBot\bin\Debug\PromoBoster.exe.config
+F:\co2\Old\duke\FacebookBot\FacebookBot\bin\Debug\PromoBoster.exe
+F:\co2\Old\duke\FacebookBot\FacebookBot\bin\Debug\PromoBoster.pdb
+F:\co2\Old\duke\FacebookBot\FacebookBot\obj\Debug\PromoBoster.Form1.resources
+F:\co2\Old\duke\FacebookBot\FacebookBot\obj\Debug\PromoBoster.Login.resources
+F:\co2\Old\duke\FacebookBot\FacebookBot\obj\Debug\PromoBoster.Properties.Resources.resources
+F:\co2\Old\duke\FacebookBot\FacebookBot\obj\Debug\PromoBoster.csproj.GenerateResource.Cache
+F:\co2\Old\duke\FacebookBot\FacebookBot\obj\Debug\PromoBoster.exe
+F:\co2\Old\duke\FacebookBot\FacebookBot\obj\Debug\PromoBoster.pdb

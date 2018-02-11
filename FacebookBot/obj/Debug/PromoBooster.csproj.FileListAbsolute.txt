@@ -1,0 +1,19 @@
+F:\co2\Old\duke\FacebookBot\FacebookBot\bin\Debug\PromoBooster.exe.config
+F:\co2\Old\duke\FacebookBot\FacebookBot\bin\Debug\PromoBooster.exe
+F:\co2\Old\duke\FacebookBot\FacebookBot\bin\Debug\PromoBooster.pdb
+F:\co2\Old\duke\FacebookBot\FacebookBot\obj\Debug\PromoBooster.Form1.resources
+F:\co2\Old\duke\FacebookBot\FacebookBot\obj\Debug\PromoBooster.Login.resources
+F:\co2\Old\duke\FacebookBot\FacebookBot\obj\Debug\PromoBooster.Properties.Resources.resources
+F:\co2\Old\duke\FacebookBot\FacebookBot\obj\Debug\PromoBooster.csproj.GenerateResource.Cache
+F:\co2\Old\duke\FacebookBot\FacebookBot\obj\Debug\PromoBooster.exe
+F:\co2\Old\duke\FacebookBot\FacebookBot\obj\Debug\PromoBooster.pdb
+F:\Facebook Poster\FacebookBot\bin\Debug\PromoBooster.exe.config
+F:\Facebook Poster\FacebookBot\obj\Debug\PromoBooster.exe
+F:\Facebook Poster\FacebookBot\obj\Debug\PromoBooster.pdb
+F:\Facebook Poster\FacebookBot\bin\Debug\PromoBooster.exe
+F:\Facebook Poster\FacebookBot\bin\Debug\PromoBooster.pdb
+F:\Facebook Poster\FacebookBot\obj\Debug\PromoBooster.csprojResolveAssemblyReference.cache
+F:\Facebook Poster\FacebookBot\obj\Debug\PromoBooster.Form1.resources
+F:\Facebook Poster\FacebookBot\obj\Debug\PromoBooster.Login.resources
+F:\Facebook Poster\FacebookBot\obj\Debug\PromoBooster.Properties.Resources.resources
+F:\Facebook Poster\FacebookBot\obj\Debug\PromoBooster.csproj.GenerateResource.Cache
