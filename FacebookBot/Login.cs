@@ -20,7 +20,7 @@ namespace PromoBooster
             try
             {
                 System.Net.WebClient wc = new System.Net.WebClient();
-                byte[] raw = wc.DownloadData("http://onlinemoneyproffesionals.000webhostapp.com/FacebookBot.txt");
+                byte[] raw = wc.DownloadData("http://localhost/LoginFacebookBot.txt");
                 webData = System.Text.Encoding.UTF8.GetString(raw);
                 
             }
